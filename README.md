@@ -35,7 +35,7 @@ saucedemo-tests/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/saucedemo-tests.git
+git clone https://github.com/sahirkabir1/saucedemo-tests.git
 cd saucedemo-tests
 
 # 2. Install dependencies
